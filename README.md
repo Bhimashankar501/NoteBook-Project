@@ -1,2 +1,2 @@
 # NoteBook-Project
-NoteBook project using amgular
+NoteBook project using angular + Firebase
